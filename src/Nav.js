@@ -1,5 +1,15 @@
 import React from "react";
 
+// const Navbar = () =>{
+//   return(
+//     <>
+//     <nav className="main-nav">
+//       <div className="logo">
+//       </div>
+//     </nav>
+//     </>
+//   )
+// }
 function Nav(){
 
     return(
@@ -19,12 +29,12 @@ function Nav(){
     <div class="container-fluid">
       <a class="flex items-center text-gray-900 hover:text-gray-900 focus:text-gray-900 mt-2 lg:mt-0 mr-1" href="#">
         <img class="mr-2" src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png" style="height: 20px" alt="" loading="lazy" />
-        <span class="font-medium">Tech News</span>
+        <span class="font-medium"></span>
       </a>
     </div>
   </div>
 </nav>
 </div>
 );
-}
+};
 export default Nav;

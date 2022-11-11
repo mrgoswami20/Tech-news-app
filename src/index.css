@@ -1,5 +1,4 @@
 
-
 .mainDiv{
   display:flex;
   flex-direction: column;
@@ -10,10 +9,11 @@
 }
 
 .Heading {
-  background-image: linear-gradient(to right, #FFA384, #74BDCB);
+  background-image: linear-gradient(to right, #FFA384, #943bd4);
   font-weight: Bold;
   text-align: center;
   font-size: xx-large;
+  color: #083233;
 }
 
 .Card_Body {

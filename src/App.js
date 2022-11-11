@@ -37,7 +37,7 @@ function App() {
     setValue(img);
   }
   getApi();
-  return <h1 class="Heading"> Morning News{value} </h1>
+  return <h1 class="Heading"> Tech News {value} </h1>
 }
 
 export default App;
